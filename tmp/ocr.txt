@@ -1,0 +1,97 @@
+11m Esco-
+
+ 
+
+gmup‘s [Dy UTF-8
+
+55 );
+
+56 try (
+
+57 var pp_grup : awai‘ clientproﬁiePicmreUermm, 'Image‘)
+
+58 ) catch (6) (
+
+59 var pp_grup = “hnpsI/cdn plxabay Com/
+pho‘o/Zm5/W0/05/22/37/blank’proﬁle
+plcluve>97346079607720‘png?q=60”:
+
+ 
+
+so )
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67 norm WeicorneType1 = asyncﬁd. (em, desc‘l. gam1. gam2.
+but = [1. options = 0) => ( I
+
+55 WI
+
+69 const canvacord = require(“canvacord“);
+
+70
+
+71 if(Add)(
+
+72 var images = new canvacordwelcomed)
+
+73 ‘setUsernamemushnama
+
+74 ‘setDiscn’minaloN‘$(allmem)‘)
+
+75 .sekMemberCounﬂallmem)
+
+76 .setGuildNamemroupName)
+
+77 .setAva‘aHgamn
+
+7B .sekﬁackgrounmbg)
+
+79 .sekCularr‘burder“, “#000000“)
+
+30 .Selcokjff‘uselnameﬂlox“. ”ﬁOOUDODd")
+
+51 ‘Setcokjrf‘d‘scrlmmalul*bux“, "#000000”)
+
+52 .setColortWessage’box“. “#000000“)
+
+83 .sEtColor(”lme“. Webzbdd")
+
+54 .satColor("avatar“. ”#000000”)
+
+85 .sekColorr‘background" 000000")
+
+86 .selText(“memberrcoum , ‘+ $(al|mem) member“)
+
+87 .SeKTeXtCmIE”. “wE{come”)
+
+EB .setTem“message“. 'we‘come In $(gromName1‘)
+
+59 ) else «(Removex
+90 var imagea = new canvacord.Leaver()
+
+91 .smUsernam(pushnam)
+
+92 .setDiscviminatoN Mailman) ‘)
+
+93 .setMemberCuunﬂallmem)
+
+94 .setGuildName(groupName)
+
+Tab / + - ' = < > " '
+Menemukan add '
+
+SEEELUMNVA LANJUT REPUTASI i
+
+ 
+
